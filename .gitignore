@@ -1,6 +1,8 @@
 __pycache__
 /bot
 /venv
+/env
+/config
 .env
 .pytest_cache
 /utils/users.db
