@@ -8,7 +8,7 @@ from handlers import user
 from handlers import admin
 from bot_and_db import bot
 
-
+#скопируйте 12 строчку
 print('Bot is Start')
 
 def main():    
